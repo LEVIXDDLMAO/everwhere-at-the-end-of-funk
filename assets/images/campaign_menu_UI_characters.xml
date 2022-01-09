@@ -158,4 +158,7 @@
 	<SubTexture name="spooky dance idle BLACK LINES0013" x="2164" y="3066" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
 	<SubTexture name="spooky dance idle BLACK LINES0014" x="2531" y="3066" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
 	<SubTexture name="spooky dance idle BLACK LINES0015" x="2531" y="3066" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="tankman flex0001" x="5094" y="3050" width="385" height="539" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="tankman flex0002" x="4700" y="3050" width="383" height="538" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="tankman flex0003" x="4308" y="3050" width="382" height="534" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
 </TextureAtlas>
